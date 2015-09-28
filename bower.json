@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap",
+  "version": "0.0.1",
+  "authors": [
+    "Tom Shen <tom@shen.io>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fetch": "~0.9.0",
+    "normalize-css": "normalize.css#~3.0.3"
+  }
+}
